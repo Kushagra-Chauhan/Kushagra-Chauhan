@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kushagra-Chauhan
-- Currently I am a sophomore. 
+- Currently I am a sophomore at IIIT Surat.
 - The fact that it's the people like us who are leading the world towards future, with that in mind I decided to plunge into the tech world. 
 - So far in this quest I got familiar with languages like HTML, CCS, JavaScript, Python and C.
 - I keep looking for something new and always open for collabrating in exciting and cool projects.
