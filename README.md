@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Kushagra Chauhan
   
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/82096939/136749210-1012bef3-fd7b-4fbd-8908-8c5135d3bfcc.gif)
+//![ezgif com-gif-maker](https://user-images.githubusercontent.com/82096939/136749210-1012bef3-fd7b-4fbd-8908-8c5135d3bfcc.gif)
 
 - Currently I am a sophomore at IIIT Surat.
 - The fact that it's the people like us who are leading the world towards future, with that in mind I decided to plunge into the tech world. 
